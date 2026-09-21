@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/bookkeeping/_init_.py
+src/bookkeeping/cli.py
+src/bookkeeping/models.py
+src/bookkeeping/storage.py
+src/llm_cli_chat.egg-info/PKG-INFO
+src/llm_cli_chat.egg-info/SOURCES.txt
+src/llm_cli_chat.egg-info/dependency_links.txt
+src/llm_cli_chat.egg-info/requires.txt
+src/llm_cli_chat.egg-info/top_level.txt
+tests/test_cli.py
