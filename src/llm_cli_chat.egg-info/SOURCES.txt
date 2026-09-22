@@ -10,3 +10,4 @@ src/llm_cli_chat.egg-info/dependency_links.txt
 src/llm_cli_chat.egg-info/requires.txt
 src/llm_cli_chat.egg-info/top_level.txt
 tests/test_cli.py
+tests/test_model.py

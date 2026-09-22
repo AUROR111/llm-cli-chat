@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+llm_cli_chat.egg-info/PKG-INFO
+llm_cli_chat.egg-info/SOURCES.txt
+llm_cli_chat.egg-info/dependency_links.txt
+llm_cli_chat.egg-info/requires.txt
+llm_cli_chat.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_decorator.py
+tests/test_model.py
